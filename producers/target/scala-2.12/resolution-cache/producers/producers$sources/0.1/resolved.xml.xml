@@ -4,7 +4,7 @@
 		module="producers$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190902170725"
+		publication="20190902171309"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

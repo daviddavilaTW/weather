@@ -4,7 +4,7 @@
 		module="weatherproducer$sources"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190902170724"
+		publication="20190902171310"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
